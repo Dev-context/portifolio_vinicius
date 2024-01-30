@@ -117,7 +117,7 @@ body {
     padding: 5%;
   }
   .apresentacao__imagem {
-    width: auto;
+    width: 80%;
   }
 
   .apresentacao__conteudo {
@@ -135,7 +135,7 @@ body {
     padding: 5%;
   }
   .apresentacao__imagem {
-    width: 80%;
+    width: 50%;
   }
 
   .apresentacao__conteudo {
